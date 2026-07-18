@@ -1,0 +1,7 @@
+{:migration/schema :etzhayyim/standalone-repository-v1
+ :migration/source "etzhayyim/root/30-graph/kg-projector"
+ :migration/destination "orgs/etzhayyim/com-etzhayyim-kg-projector"
+ :migration/history-preserved true
+ :migration/canonical-format :edn
+ :migration/charter "https://github.com/etzhayyim/root/blob/main/CHARTER-RIDER.md"
+ :migration/date "2026-07-18"}
